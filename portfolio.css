@@ -1,0 +1,142 @@
+body{
+    background-color: #6f5964;
+    margin-left:40px;
+    margin-bottom:20px;
+    width:1000px;
+}
+#header{
+    background: lightgray;
+    width:1050x;
+    height:60px;
+    display:block;
+}
+.topRow{
+    background-color:lightgray;
+    width:400px;
+    height:215px;
+    display:inline-block;
+    position:relative;
+    left:0px;
+    margin:10px;
+}
+.top3{
+    height:70px;
+    width:160px;
+    display:inline-block;
+    position:relative;
+    padding:30px;
+    left:100px;
+    /*border-top:40px solid gray;*/
+
+}
+
+.bottom3{
+      height:70px;
+    width:160px;
+    background-color:black;
+    display:inline-block;
+    position:relative;
+    padding:30px;
+    left:100px;
+    top:-15px;
+}
+.mid3{
+    width:668px;
+    background-color:white;
+    display:table;
+    position:relative;
+    left:100px;
+    top:-20px;
+    font-size:10px;
+    margin-top:-32px;
+
+
+}
+.mid3 p{
+    display:table-cell;
+    text-align:justify;
+   width:220px;
+   padding:20px;
+}
+#footer{
+    width:875px;
+    height:60px;
+    background-color:lightgray;
+    margin-top:20px;
+    text-align:center;
+    font-size:small;
+    text-decoration: underline;
+    font-style:italic;
+}
+#photo {
+    border:2px solid white;
+}
+#bio{
+    border-top:43px solid gray;
+    height:180px;
+   vertical-align:top;
+}
+#master{
+    text-align:right;
+    position:relative;
+    bottom:30px;
+
+}
+#Name{
+    position:relative;
+    top:20px;
+    left:5px;
+    }
+#bottom3_row{
+    width:1000px;
+}
+#biotext{
+    position:relative;
+    top:-60px;
+}
+.topimg{
+    width:220px;height:130px;
+    position:relative;
+    top:-50px;
+    right:30px;
+}
+#bottom3_row p{
+    background:linear-gradient(gray,lightgray,gray);
+    color:white;
+}
+#titlerow p{
+display:inline-block;
+width:220px;
+height:40px;
+position:relative;
+left:100px;
+background:linear-gradient(gray,lightgray,gray);
+color:white;
+
+}
+.bottom3 p{
+    position:relative;
+    top:-50px;
+    width:220px;
+    left:-30px;
+    height:30px;
+}
+#footericons{
+    height:25px;
+    width:25px;
+}
+#icons{
+   position:relative;
+   top:-50px;
+}
+#biotext h2{
+    background:linear-gradient(gray,lightgray,gray);
+    color:white;
+}
+#footer p{
+    text-decoration:none;
+}
+button{
+    background-color: green;
+    border-radius: 4px;
+}
